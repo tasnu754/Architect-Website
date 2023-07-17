@@ -1,0 +1,8 @@
+/* Work sens font from goggle Font  */
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:wght@400;800&family=Work+Sans:wght@400;600;700;800&display=swap");
+
+* {
+  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
